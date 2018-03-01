@@ -1,4 +1,4 @@
-var h = 5;
+var h = prompt();
 
 for (let i = 0; i < h; i++) {
 	let res = '';
